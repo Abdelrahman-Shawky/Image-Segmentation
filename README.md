@@ -1,4 +1,6 @@
 # Image Segmentation
+## Colab
+https://colab.research.google.com/drive/1BEsLrIhSiTHcM3O_LnUWXoirKqh9s3UN?usp=sharing
 ## Problem Statment
 We intend to perform image segmentation. **Image segmentation** means that we can group similar pixels 
 together and give these grouped pixels the same label. The grouping problem is a **clustering** problem. 
